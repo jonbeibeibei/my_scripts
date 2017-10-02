@@ -3,7 +3,7 @@
 
 Scripts contained in this repository:
 - URL Shortener using Tiny URL
-![Alt text] (images/tinyurl.png)
+![Alt text] (images/tinyurl.png?raw=true "Title")
 
 - Bing Image Scraper
 - Reddit Wallpaper Scraper
